@@ -7,6 +7,14 @@ body {
   margin-top: 2rem;
 }
 
+.classes {
+  margin-bottom: 1rem;
+}
+
+.day {
+  margin-bottom: 1rem;
+}
+
 .text-centered {
   text-align: center;
 }
